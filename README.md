@@ -1,2 +1,2 @@
-# Notify
+# Quest-panel
 App for tasks
